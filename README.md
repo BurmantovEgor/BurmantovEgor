@@ -14,7 +14,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![ILogger](https://img.shields.io/badge/-ILogger-808080?style=flat-square&logo=logstash&logoColor=white)
 ![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat-square&logo=asp.net&logoColor=white)
 
 ## 📂 Демонстрационный проект
